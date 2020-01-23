@@ -1,0 +1,9 @@
+NAME=dylan-sandbox-api
+GROUP_NAME=dylan-sandbox-epic
+APPLICATION_DOMAIN=dylan-sandbox-mem-mmti-test.pathfinder.gov.bc.ca
+MINIO_HOST=dylan-sandbox-api-minio-mem-mmti-test.pathfinder.gov.bc.ca
+MINIO_SECRET_NAME=dylan-sandbox-api-minio-keys
+DATABASE_SERVICE_NAME=dylan-sandbox-api-mongodb
+APP_IMAGE_NAME=dylan-sandbox-api
+APP_IMAGE_NAMESPACE=mem-mmti-tools
+APP_DEPLOYMENT_TAG=test

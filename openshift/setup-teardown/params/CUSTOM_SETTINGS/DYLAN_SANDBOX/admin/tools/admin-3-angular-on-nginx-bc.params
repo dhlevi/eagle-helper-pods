@@ -1,0 +1,3 @@
+NAME=dylan-sandbox-admin
+ANGULAR_BUILDER_IMAGE=dylan-sandbox-admin-angular-builder
+NGINX_RUNTIME_IMAGE=dylan-sandbox-admin-nginx-runtime

@@ -1,0 +1,3 @@
+NAME=dylan-sandbox-public-nginx-runtime
+GIT_REPO_URL=https://github.com/dhlevi/eagle-public
+GIT_REPO_BRANCH=dylanSandbox
