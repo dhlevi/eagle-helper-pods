@@ -1,6 +1,6 @@
 NAME=dylan-sandbox-admin
 GROUP_NAME=dylan-sandbox-epic
-IMAGE_NAMESPACE=mem-mmti-tools
+IMAGE_NAMESPACE=mem-mmti-dev
 APPLICATION_DOMAIN=dylan-sandbox-mem-mmti-dev.pathfinder.gov.bc.ca
 TAG_NAME=dev
 REMOTE_API_PATH=https://dylan-sandbox-mem-mmti-dev.pathfinder.gov.bc.ca/api
