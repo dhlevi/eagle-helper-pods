@@ -1,7 +1,7 @@
 source ./lib/extended-oc.sh
 source ./projectset.config
 
-PROJECT_SET=CUSTOM_SETTINGS/${TARGET_PROJECT_SET}
+PROJECT_SET=CUSTOM_SETTINGS/DYLAN_SANDBOX
 PARAMS_FOLDER=./params/${PROJECT_SET}/
 ENV_ARGS_FILE=${PARAMS_FOLDER}environment.config
 API_ARGS_FILE=${PARAMS_FOLDER}api/api.config
