@@ -164,7 +164,7 @@ deployPublic $(<${PUBLIC_ARGS_FILE});
 # Typically your-target-env is one of [dev, test, prod]
 
 ###################################################### SNIP #######################################################
-#oc tag your-tools-namespace/your-app-name-api:latest your-tools-namespace/your-app-name-api:your-target-env
-#oc tag your-tools-namespace/your-app-name-public:latest your-tools-namespace/your-app-name-public:your-target-env
-#oc tag your-tools-namespace/your-app-name-admin:latest your-tools-namespace/your-app-name-admin:your-target-env
+#oc tag mem-mmti-dev/dylan-sandbox-api:latest mem-mmti-dev/dylan-sandbox-api:dev
+#oc tag mem-mmti-dev/dylan-sandbox-public:latest mem-mmti-dev/dylan-sandbox-public:dev
+#oc tag mem-mmti-dev/dylan-sandbox-admin:latest mem-mmti-dev/dylan-sandbox-admin:dev
 #################################################### END SNIP #####################################################
